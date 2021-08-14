@@ -1,0 +1,16 @@
+{{define "head"}}
+{{ partial "head.html" . }}
+{{end}}
+
+{{define "main"}}
+<!-- Main Page -->
+<div class="singlePage">
+    {{partial "darkmode.html" .}}
+    {{.Content}}
+
+    <!-- Contact Info -->
+    <div>
+        {{partial "footer.html" .}}
+    </div>
+</div>
+{{end}}
