@@ -10,5 +10,3 @@ Simple second brain and digital garden.
 
 Simple second brain and [digital garden](https://jzhao.xyz/posts/digital-gardening).
 ## MOC
-[_index](content/_index.md)
-[LYT Notes 5](content/LYT%20Notes%205.md)
