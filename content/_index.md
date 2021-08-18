@@ -1,7 +1,10 @@
-
+## What am I trying to to?
+I really like [Obsidian](obsidian.md), a note editor. It's really smooth using it.
+The publish function is also wanted, but it's too expensive for me too use it since it is 100$/year.
+Luckily I found quarz, a relatively applicable way for both editing and publishing. Credit to the author JackyZhao.
 Simple second brain and [digital garden](https://jzhao.xyz/posts/digital-gardening).
 ## MOC
-
+[showcase](moc/showcase.md)
 
 [external-hosting](notes/external-hosting.md)
 [LYT Notes 5](content/LYT%20Notes%205.md)
