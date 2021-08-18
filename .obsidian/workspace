@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "content/_index.md",
+            "file": "README.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/_index.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,9 +88,9 @@
   },
   "active": "34a73a4d242426a9",
   "lastOpenFiles": [
-    "content/_index.md",
-    "content/LYT Notes 1.md",
+    "README.md",
     "static/icon.png",
-    "README.md"
+    "content/_index.md",
+    "content/LYT Notes 1.md"
   ]
 }
