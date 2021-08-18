@@ -3,15 +3,15 @@
 
 Simple second brain and [digital garden](https://jzhao.xyz/posts/digital-gardening).
 ## MOC
-- [[_on this folder called LYT Notes]]
-- [[LYT Notes 1]]
-- [[LYT Notes 2]]
-- [[LYT Notes 3]]
-- [[LYT Notes 4]]
-- [[LYT Notes 5]]
-- [[LYT Notes MOC]]
-- [[troubleshooting]]
-
+[_index](_index.md)
+[_on this folder called LYT Notes](_on this folder called LYT Notes.md)
+[LYT Notes 1](LYT Notes 1.md)
+[LYT Notes 2](LYT Notes 2.md)
+[LYT Notes 3](LYT Notes 3.md)
+[LYT Notes 4](LYT Notes 4.md)
+[LYT Notes 5](LYT Notes 5.md)
+[LYT Notes MOC](LYT Notes MOC.md)
+[troubleshooting](notes/troubleshooting.md)
 ## Why Quartz?
 Hosting a public digital garden isn't easy. There are an overwhelming number of tutorials, resources, and guides for tools like [Notion](https://www.notion.so/), [Roam](https://roamresearch.com/), and [Obsidian](https://obsidian.md/), yet none of them have super easy to use *free* tools to publish that garden to the world.
 
